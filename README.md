@@ -1,6 +1,6 @@
 # Web Accessibility Testing Power for Kiro
 
-A comprehensive Kiro Power for web accessibility testing that combines automated tools, AI analysis, and manual testing guidance based on W3C/WAI standards.
+A comprehensive Kiro Power for web accessibility testing that combines automated tools, AI analysis, and manual testing guidance based on W3C/WAI standards. This power provides developer support in web development to increase usability across platforms. 
 
 ## Overview
 
