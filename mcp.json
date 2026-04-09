@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "accessibility-analyzer": {
+      "command": "npx",
+      "args": ["-y", "@axe-core/cli"],
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "disabled": false,
+      "autoApprove": []
+    },
+    "file-system": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem"],
+      "env": {
+        "ALLOWED_DIRECTORIES": "."
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}
